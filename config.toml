@@ -1,4 +1,4 @@
-baseurl = "https://bwsi-remote-sensing-2020.github.io/remote-sensing-homepage/"
+baseurl = "http://bwsi-remote-sensing.net/"
 title = "root@bwsi-remote-sensing"
 theme = "hugo-theme-console"
 languageCode = "en-us"
