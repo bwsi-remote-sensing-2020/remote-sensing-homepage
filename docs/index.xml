@@ -12,13 +12,50 @@
     
     
     <item>
+      <title>Course Syllabus</title>
+      <link>https://bwsi-remote-sensing-2020.github.io/remote-sensing-homepage/links/course-syllabus/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bwsi-remote-sensing-2020.github.io/remote-sensing-homepage/links/course-syllabus/</guid>
+      <description>&lt;p&gt;The new 2020 course has many modules and has updated course content to optimize online learning.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Joining Calls</title>
+      <link>https://bwsi-remote-sensing-2020.github.io/remote-sensing-homepage/links/joining-calls/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bwsi-remote-sensing-2020.github.io/remote-sensing-homepage/links/joining-calls/</guid>
+      <description>&lt;p&gt;Join the daily zoom call &lt;a href=&#34;https://mit.zoom.us/j/99836688909&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Introduction</title>
       <link>https://bwsi-remote-sensing-2020.github.io/remote-sensing-homepage/links/introduction/</link>
-      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://bwsi-remote-sensing-2020.github.io/remote-sensing-homepage/links/introduction/</guid>
       <description>&lt;p&gt;The course&amp;rsquo;s github homepage can be found &lt;a href=&#34;https://github.com/bwsi-remote-sensing-2020/&#34;&gt;here&lt;/a&gt;.&lt;br&gt;
 The 2019 home site can be found &lt;a href=&#34;https://bwsi-hadr.github.io/00-course-overview/&#34;&gt;here&lt;/a&gt; for reference.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Schedules</title>
+      <link>https://bwsi-remote-sensing-2020.github.io/remote-sensing-homepage/links/schedules/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bwsi-remote-sensing-2020.github.io/remote-sensing-homepage/links/schedules/</guid>
+      <description>&lt;p&gt;Class runs on weekdays from 9:45 AM to 6:00 PM
+All course scheduling is in US/Eastern Time (ET)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Code of Conduct</title>
+      <link>https://bwsi-remote-sensing-2020.github.io/remote-sensing-homepage/links/code-of-conduct/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bwsi-remote-sensing-2020.github.io/remote-sensing-homepage/links/code-of-conduct/</guid>
+      <description>&lt;p&gt;During this course, we would like to make sure everyone is treated properly, feels welcome, and follows the code of conduct.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -49,15 +86,6 @@ The 2019 home site can be found &lt;a href=&#34;https://bwsi-hadr.github.io/00-c
     </item>
     
     <item>
-      <title>Arizona, US</title>
-      <link>https://bwsi-remote-sensing-2020.github.io/remote-sensing-homepage/photos/arizona-us/</link>
-      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bwsi-remote-sensing-2020.github.io/remote-sensing-homepage/photos/arizona-us/</guid>
-      <description>The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States. The canyon is 277 miles (446 km) long, up to 18 miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857 meters).</description>
-    </item>
-    
-    <item>
       <title>Chicago, US</title>
       <link>https://bwsi-remote-sensing-2020.github.io/remote-sensing-homepage/photos/chicago-us/</link>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
@@ -76,16 +104,23 @@ The 2019 home site can be found &lt;a href=&#34;https://bwsi-hadr.github.io/00-c
     </item>
     
     <item>
+      <title>New York City</title>
+      <link>https://bwsi-remote-sensing-2020.github.io/remote-sensing-homepage/photos/nyc/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://bwsi-remote-sensing-2020.github.io/remote-sensing-homepage/photos/nyc/</guid>
+      <description>This aerial image shows New York City without any image filters.</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://bwsi-remote-sensing-2020.github.io/remote-sensing-homepage/about/</link>
       <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
       
       <guid>https://bwsi-remote-sensing-2020.github.io/remote-sensing-homepage/about/</guid>
-      <description>The Remote Sensing course uses Python and Data Science to improve natural disaster relief and recovery processes.
-Installation $ mkdir themes $ cd themes $ git submodule add https://github.com/mrmierzejewski/hugo-theme-console.git hugo-theme-console See the Hugo documentation for more information.
-Configuration Set theme parameter in your config file:
-theme = &amp;quot;hugo-theme-console&amp;quot; License Copyright © 2020 Marcin Mierzejewski
-The theme is released under the MIT License. Check the original theme license for additional licensing information.</description>
+      <description>The Remote Sensing course uses Python and Data Science to improve natural disaster relief and recovery.
+Throughout the course, students learn to use the Geographic Information System, GIS, to analyze buildings, roads, and networks. When combined with machine learning classification and processing algorithms, students eventually learn how to optimize natural disaster relief and recovery.
+fig, ax = ox.plot_graph(walkable_roads_near_mit, figsize=(8,10), node_size=10) Set Up Your JupyterLab Instance JupyterLab is a cloud-hosted way to run Python in Jupyter Notebooks.</description>
     </item>
     
   </channel>

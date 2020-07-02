@@ -39,15 +39,6 @@
     </item>
     
     <item>
-      <title>Arizona, US</title>
-      <link>https://bwsi-remote-sensing-2020.github.io/remote-sensing-homepage/photos/arizona-us/</link>
-      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bwsi-remote-sensing-2020.github.io/remote-sensing-homepage/photos/arizona-us/</guid>
-      <description>The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States. The canyon is 277 miles (446 km) long, up to 18 miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857 meters).</description>
-    </item>
-    
-    <item>
       <title>Chicago, US</title>
       <link>https://bwsi-remote-sensing-2020.github.io/remote-sensing-homepage/photos/chicago-us/</link>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
@@ -63,6 +54,15 @@
       
       <guid>https://bwsi-remote-sensing-2020.github.io/remote-sensing-homepage/photos/panaji-india-2/</guid>
       <description>Panaji, formerly Panjim, is the capital of the Indian state of Goa and the headquarters of North Goa district. It lies on the banks of the Mandovi River estuary in the Ilhas de Goa sub-district (taluka). With a population of 114,759 in the metropolitan area, Panjim is Goa&amp;rsquo;s largest urban agglomeration, ahead of Margão and Vasco da Gama.</description>
+    </item>
+    
+    <item>
+      <title>New York City</title>
+      <link>https://bwsi-remote-sensing-2020.github.io/remote-sensing-homepage/photos/nyc/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://bwsi-remote-sensing-2020.github.io/remote-sensing-homepage/photos/nyc/</guid>
+      <description>This aerial image shows New York City without any image filters.</description>
     </item>
     
   </channel>
